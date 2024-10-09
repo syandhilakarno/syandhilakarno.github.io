@@ -41,9 +41,9 @@
   
   .profile-container {
     background-color: white;
-    padding: 30px 20px;
+    padding: 35px 25px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    border-radius: 0 0 8px 8px;
+    border-radius: 0 0 10px 10px;
   }
   
   .profile-section-title {
@@ -74,7 +74,7 @@
   .experience h2 {
   font-weight: bold;
   font-size: 1.2em;
-  color: #858585;
+  color: #000000;
   margin-bottom: 5px;
   }
 
