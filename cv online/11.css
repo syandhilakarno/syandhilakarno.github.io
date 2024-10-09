@@ -86,6 +86,12 @@ body {
     font-size: 0.9em;
     color: #858585;
   }
+  .experience h3 {
+    font-size: 1.1em;
+    color: #858585;
+    margin-top: 10px;
+    line-height: 1.8;
+  }
 
   .education .role {
     font-weight: bold;
