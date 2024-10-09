@@ -71,7 +71,7 @@
     border-bottom: 1px solid #ddd;
   }
 
-  .experience-item h2 {
+  .education h2 {
   font-weight: bold;
   font-size: 1.2em;
   color: #000000;
@@ -94,19 +94,19 @@
     color: #858585;
   }
 
-  .Education .role {
+  .education .role {
     font-weight: bold;
     color: #858585;
     margin-bottom: 5px;
   }
 
-  .Education .company {
+  .education .company {
     font-size: 1em;
     color: #858585;
     margin-bottom: 5px;
   }
   
-  .Education .duration {
+  .education .duration {
     font-size: 0.9em;
     color: #858585;
   }
