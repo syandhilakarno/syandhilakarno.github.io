@@ -71,10 +71,6 @@
     border-bottom: 1px solid #ddd;
   }
   
-  .experience:last-child {
-    border-bottom: none;
-  }
-  
   .experience .role {
     font-weight: bold;
     font-size: 1em;
