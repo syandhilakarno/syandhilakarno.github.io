@@ -5,20 +5,18 @@
     box-sizing: border-box;
   }
   
-  /* Body styling */
   body {
     font-family: "Helvetica", "Arial", sans-serif;
     background-color: #f3f2ef;
-    color: #333;
+    color: #000000;
     line-height: 1.6;
     padding: 20px;
     max-width: 960px;
     margin: 0 auto;
   }
   
-  /* Header section (profile header) */
   .profile-header {
-    background-color: #b50000;
+    background-color: #000000;
     color: white;
     padding: 30px 20px;
     border-radius: 8px 8px 0 0;
@@ -41,7 +39,6 @@
     font-size: 1.2em;
   }
   
-  /* Main profile section */
   .profile-container {
     background-color: white;
     padding: 30px 20px;
@@ -49,16 +46,14 @@
     border-radius: 0 0 8px 8px;
   }
   
-  /* Section title styling */
   .profile-section-title {
     font-size: 1.5em;
-    color: #0077b5;
+    color: #000000;
     margin-bottom: 20px;
     border-bottom: 2px solid #ddd;
     padding-bottom: 10px;
   }
   
-/* About me section */
 .about-me {
     margin-bottom: 35px;
   }
@@ -70,35 +65,34 @@
     line-height: 1.8;
   }
   
-  /* Experience section */
-  .experience-item {
+  .experience {
     margin-bottom: 20px;
     padding-bottom: 20px;
     border-bottom: 1px solid #ddd;
   }
   
-  .experience-item:last-child {
+  .experience:last-child {
     border-bottom: none;
   }
   
-  .experience-item h3 {
-    font-size: 1.2em;
-    color: #ffff00;
-    margin-bottom: 5px;
-  }
-  
-  .experience-item .role {
+  .experience .role {
     font-weight: bold;
     font-size: 1em;
-    color: #333;
+    color: #858585;
   }
-  .experience-item .company {
+  .experience .company {
     font-size: 1em;
-    color: #555;
+    color: #858585;
     margin-bottom: 5px;
   }
   
-  .experience-item .duration {
+  .experience .duration {
     font-size: 0.9em;
-    color: #999;
+    color: #858585;
+  }
+
+  .Education .role {
+    font-weight: bold;
+    color: #858585;
+    margin-bottom: 5px;
   }
