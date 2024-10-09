@@ -71,7 +71,8 @@
     border-bottom: 1px solid #ddd;
   }
 
-  .experience-item h3 {
+  .experience-item h2 {
+  font-weight: bold;
   font-size: 1.2em;
   color: #0077b5;
   margin-bottom: 5px;
