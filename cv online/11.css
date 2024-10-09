@@ -9,7 +9,7 @@
     font-family: "Helvetica", "Arial", sans-serif;
     background-color: #f3f2ef;
     color: #000000;
-    line-height: 1.6;
+
     padding: 30px;
     max-width: 960px;
     margin: 0 auto;
@@ -50,7 +50,7 @@
     font-size: 1.5em;
     color: #000000;
     margin-bottom: 20px;
-      
+    border-bottom: 2px solid #ddd;
     padding-bottom: 10px;
   }
   
