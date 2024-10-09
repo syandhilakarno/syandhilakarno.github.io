@@ -65,10 +65,14 @@ body {
     line-height: 1.8;
   }
   
-  .experience {
+  .experience item{
     margin-bottom: 20px;
     padding-bottom: 20px;
     border-bottom: 1px solid #ddd;
+  }
+
+.experience-item:last-child {
+    border-bottom: none;
   }
 
   .experience .role {
