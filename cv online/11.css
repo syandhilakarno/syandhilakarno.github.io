@@ -1,4 +1,11 @@
-  body {
+/* Reset margin, padding, and box-sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+body {
     font-family: "Helvetica", "Arial", sans-serif;
     background-color: #f3f2ef;
     color: #000000;
