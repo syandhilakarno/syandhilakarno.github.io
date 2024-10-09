@@ -71,7 +71,7 @@
     border-bottom: 1px solid #ddd;
   }
 
-  .experience-item h2 {
+  .experience h2 {
   font-weight: bold;
   font-size: 1.2em;
   color: #858585;
@@ -99,6 +99,18 @@
     color: #858585;
     margin-bottom: 5px;
   }
+
+  .Education .company {
+    font-size: 1em;
+    color: #858585;
+    margin-bottom: 5px;
+  }
+  
+  .Education .duration {
+    font-size: 0.9em;
+    color: #858585;
+  }
+
    .Hoby {
     margin-bottom: 20px;
     padding-bottom: 20px;
