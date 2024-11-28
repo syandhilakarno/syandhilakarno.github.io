@@ -1,4 +1,0 @@
-1. user admin ; coba1@gmail.com
- pw ; coba
-2. user biasa ; coba12@gmail.com
- pw ; coba
